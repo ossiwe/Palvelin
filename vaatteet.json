@@ -1,0 +1,6 @@
+
+[{"id":1, "kategoria":"t-paidat", "nimike":"Nike, SB", "hinta":29.90},
+{"id":2, "kategoria":"housut", "nimike":"Carhartt, Cargo", "hinta":45},
+{"id":3, "kategoria":"kengät", "nimike":"Nike, Dunk", "hinta":129},
+{"id":4, "kategoria":"hatut", "nimike":"New Balance, Beanie", "hinta":299},
+{"id":5, "kategoria":"takit", "nimike":"The North Face, Windbreaker", "hinta":149.90}]
